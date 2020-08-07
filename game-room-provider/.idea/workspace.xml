@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="084475db-117f-46da-9298-f43923b3826a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fkMFysBtJkpHhAFZN8tGfM5MBw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/huawei/app/provider" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/huawei/app/provider" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="install" />
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="game-room-provider [install,package]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="install" />
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="084475db-117f-46da-9298-f43923b3826a" name="Default Changelist" comment="" />
+      <created>1596757537045</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596757537045</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="91" width="1071" height="765" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596758100982">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state x="184" y="91" width="1071" height="765" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.-1057.1920.1057/0.23.1440.833@0.23.1440.833" timestamp="1596758100982" />
+    <state x="461" y="283" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1596760290775">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state x="461" y="283" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.-1057.1920.1057/0.23.1440.833@0.23.1440.833" timestamp="1596760290775" />
+    <state width="1398" height="216" key="GridCell.Tab.0.bottom" timestamp="1596771293672">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1398" height="216" key="GridCell.Tab.0.bottom/0.-1057.1920.1057/0.23.1440.833@0.23.1440.833" timestamp="1596771293672" />
+    <state width="1398" height="216" key="GridCell.Tab.0.center" timestamp="1596771293671">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1398" height="216" key="GridCell.Tab.0.center/0.-1057.1920.1057/0.23.1440.833@0.23.1440.833" timestamp="1596771293671" />
+    <state width="1398" height="216" key="GridCell.Tab.0.left" timestamp="1596771293671">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1398" height="216" key="GridCell.Tab.0.left/0.-1057.1920.1057/0.23.1440.833@0.23.1440.833" timestamp="1596771293671" />
+    <state width="1398" height="216" key="GridCell.Tab.0.right" timestamp="1596771293672">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1398" height="216" key="GridCell.Tab.0.right/0.-1057.1920.1057/0.23.1440.833@0.23.1440.833" timestamp="1596771293672" />
+    <state x="97" y="143" key="new project wizard" timestamp="1596758780212">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state x="97" y="143" key="new project wizard/0.-1057.1920.1057/0.23.1440.833@0.23.1440.833" timestamp="1596758780212" />
+  </component>
+</project>

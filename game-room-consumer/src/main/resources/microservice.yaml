@@ -1,0 +1,35 @@
+APPLICATION_ID: crc-demo
+service_description:
+  name: appConsumer
+  version: 0.0.4
+cse:
+  service:
+    registry:
+      address: https://cse.cn-north-4.myhuaweicloud.com:443
+      instance:
+        watch: false
+  config:
+    client:
+      serverUri: https://cse.cn-north-4.myhuaweicloud.com:443
+      refreshMode: 1
+      refresh_interval: 5000
+  monitor:
+    client:
+      serverUri: https://cse.cn-north-4.myhuaweicloud.com:443
+  handler:
+    chain:
+      Consumer:
+        default: bizkeeper-consumer,loadbalance
+  isolation:
+    Consumer:
+      enabled: false
+  rest:
+    address: 0.0.0.0:8080
+  metrics:
+    window_time: 15000
+  credentials:
+    enabled: true
+    accessKey: KLQEH7POO0DMP6YID9DR
+    secretKey: JtdKa4adyZaWDMSXwETqrlDxfKpWXVTX4CnmKPnt
+    akskCustomCipher: default
+    project: cn-north-4
