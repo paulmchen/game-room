@@ -1,2 +1,2 @@
 # game-room
-an example microservice based on Java Chasis
+An example microservice based on Java-Chassis https://github.com/apache/servicecomb-java-chassis
